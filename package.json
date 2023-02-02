@@ -1,0 +1,20 @@
+{
+  "name": "ex3-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeosorio2012/Ex3-Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeosorio2012/Ex3-Repo/issues"
+  },
+  "homepage": "https://github.com/jeosorio2012/Ex3-Repo#readme"
+}
